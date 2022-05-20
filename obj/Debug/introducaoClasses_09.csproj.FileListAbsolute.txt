@@ -1,0 +1,13 @@
+H:\www\POO\SegundaEtapa\introducaoClasses\introducaoClasses_09\bin\Debug\introducaoClasses_09.exe.config
+H:\www\POO\SegundaEtapa\introducaoClasses\introducaoClasses_09\bin\Debug\introducaoClasses_09.exe
+H:\www\POO\SegundaEtapa\introducaoClasses\introducaoClasses_09\bin\Debug\introducaoClasses_09.pdb
+H:\www\POO\SegundaEtapa\introducaoClasses\introducaoClasses_09\obj\Debug\introducaoClasses_09.csproj.AssemblyReference.cache
+H:\www\POO\SegundaEtapa\introducaoClasses\introducaoClasses_09\obj\Debug\introducaoClasses_09.csproj.SuggestedBindingRedirects.cache
+H:\www\POO\SegundaEtapa\introducaoClasses\introducaoClasses_09\obj\Debug\introducaoClasses_09.FrmAlimento.resources
+H:\www\POO\SegundaEtapa\introducaoClasses\introducaoClasses_09\obj\Debug\introducaoClasses_09.FrmLoja.resources
+H:\www\POO\SegundaEtapa\introducaoClasses\introducaoClasses_09\obj\Debug\introducaoClasses_09.FrmPrefeito.resources
+H:\www\POO\SegundaEtapa\introducaoClasses\introducaoClasses_09\obj\Debug\introducaoClasses_09.Properties.Resources.resources
+H:\www\POO\SegundaEtapa\introducaoClasses\introducaoClasses_09\obj\Debug\introducaoClasses_09.csproj.GenerateResource.cache
+H:\www\POO\SegundaEtapa\introducaoClasses\introducaoClasses_09\obj\Debug\introducaoClasses_09.csproj.CoreCompileInputs.cache
+H:\www\POO\SegundaEtapa\introducaoClasses\introducaoClasses_09\obj\Debug\introducaoClasses_09.exe
+H:\www\POO\SegundaEtapa\introducaoClasses\introducaoClasses_09\obj\Debug\introducaoClasses_09.pdb
